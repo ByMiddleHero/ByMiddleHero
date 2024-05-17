@@ -1,7 +1,7 @@
 <h3 align="center">A passionate Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/09/kobe-bryant-gif.gif">
 
-- 🔭 I’m currently studying on [Uniworkhub Coding Space](https://uniworkhub.com/)
+- 🔭 I’m currently working on [Uniworkhub Coding Space](https://uniworkhub.com/)
 
 - 🌱 I’m currently learning **Go, JavaScript, Rust**
 
